@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jozve Yab</string>
+    <string name="navication_drawer_open">Open navigation drawer</string>
+    <string name="navication_drawer_close">Close navigation drawer</string>
+</resources>

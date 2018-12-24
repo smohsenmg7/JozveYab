@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group>
+        <item
+            android:id="@+id/nav_user_profile"
+            android:icon="@drawable/ic_account_box_black_24dp"
+            android:title="مشخصات کاربری"></item>
+        <item
+            android:id="@+id/nav_category"
+            android:icon="@drawable/ic_view_list_black_24dp"
+            android:title="دسته بندی"></item>
+        <item
+            android:id="@+id/nav_favorite"
+            android:icon="@drawable/ic_favorite_black_24dp"
+            android:title="محبوب ها"></item>
+        <item
+            android:id="@+id/nav_buy"
+            android:icon="@drawable/ic_shopping_cart_black_24dp"
+            android:title="خریداری شده"></item>
+        <item
+            android:id="@+id/nav_download"
+            android:icon="@drawable/ic_cloud_download_black_24dp"
+            android:title="دانلود شده"></item>
+    </group>
+</menu>
